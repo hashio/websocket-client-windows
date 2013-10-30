@@ -1,4 +1,4 @@
 websocket-client-windows
 ========================
 
-windows with jna plugin for websocket-client
+Add proxy negotiate authentication (Use Windows SPENGO) mechanism to websocket-client
